@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RxJavaDemo</string>
+    <string name="data_source_memory">内存</string>
+    <string name="data_source_disk">磁盘</string>
+    <string name="data_source_network">网络</string>
+    <string name="loading_time_and_source">耗时：%1$sms(从%2$s)</string>
+    <string name="memory_cache_cleared">内存缓存已清空</string>
+    <string name="memory_and_disk_cache_cleared">内存缓存和磁盘缓存都已清空</string>
+    <string name="question_mark">\?</string>
+</resources>
